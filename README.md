@@ -66,3 +66,7 @@ Las contribuciones son bienvenidas. Por favor, abre un issue o un pull request p
 ## Licencia
 
 Este proyecto está licenciado bajo los términos de la licencia MIT. Consulta el archivo LICENSE para más detalles.
+
+## Contacto
+
+Para más información, puedes contactarme a través de [LinkedIn](https://www.linkedin.com/in/pablobasadata/).
